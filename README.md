@@ -4,10 +4,8 @@ This project is a robot that can extend from around 26 inches to around 25 feet.
 This robot will use 3 telescoping box tube slides in a triangle arrangement to provide the extension. A horizontal slide on a rotating turret will act as the arm, and a claw end effector will screw/unscrew lightbulbs. The box tube slides will be based off of Offset robotics 3 stage telescoping box tube slides.
 
 
-
-
-
-
+CAD:
+https://cad.onshape.com/documents/9ec087c03087f4d738c05357/w/e796cef8a9983082d9a2e94e/e/6de7f4d21c5d187edf381820 
 
 
 
